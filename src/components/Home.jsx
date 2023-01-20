@@ -23,30 +23,28 @@ const Home = () => {
             HNGi8 Finalist|Frontend & Backend Engineer
             React.js|Redux|FastAPI|Django|REST API|Mongo DB|Tailwind
           </p>
-          <div className="flex">
-            <div>
-              <Link
-                to="portfolio"
-                smooth
-                duration={500}
-                className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
-            bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer mr-4"
-              >
-                Portfolio
-                <span className="group-hover:rotate-90 duration-300">
-                  <AiOutlineArrowRight size={25} className="ml-1" />
-                </span>
-              </Link>
-            </div>
-            <div>
-              <a
-                href=""
-                className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
+          <div>
+            <Link
+              to="portfolio"
+              smooth
+              duration={500}
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
             bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
-              >
-                Resume
-              </a>
-            </div>
+            >
+              Portfolio
+              <span className="group-hover:rotate-90 duration-300">
+                <AiOutlineArrowRight size={25} className="ml-1" />
+              </span>
+            </Link>
+          </div>
+          <div>
+            {/* <a
+              href=""
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
+            bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+            >
+              Resume
+            </a> */}
           </div>
         </div>
         <div>
