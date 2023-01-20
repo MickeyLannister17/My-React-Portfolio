@@ -46,11 +46,11 @@ const Portfolio = () => {
     <div
       name="portfolio"
       className="bg-gradient-to-b from-black
-    to-gray-800 text-white md:h-full"
+    to-gray-800 text-white md:h-full py-16"
     >
       <div
         className="max-w-screen-lg p-4 mx-auto
-    flex flex-col justify-center w-full h-full"
+    flex flex-col justify-center w-full h-full md:mb-5"
       >
         <div className="pb-8 mt-5 md:mt-0">
           <p
