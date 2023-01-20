@@ -23,7 +23,7 @@ const Home = () => {
             HNGi8 Finalist|Frontend & Backend Engineer
             React.js|Redux|FastAPI|Django|REST API|Mongo DB|Tailwind
           </p>
-          <div>
+          <div className="">
             <Link
               to="portfolio"
               smooth
