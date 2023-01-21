@@ -40,7 +40,8 @@ const Home = () => {
             </div>
             <div>
               <a
-                href=""
+                href="https://drive.google.com/file/d/1mzis_0ZIZ1DQkks5xAawPldB8Hcr3Hei/view?usp=share_link"
+                target="_blank"
                 className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
             bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
               >
