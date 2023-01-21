@@ -40,7 +40,7 @@ const SocialIcons = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/portfolio/public/realresumeformichael.pdf",
+      href: "https://drive.google.com/file/d/1mzis_0ZIZ1DQkks5xAawPldB8Hcr3Hei/view?usp=share_link",
       style: "rounded-br-md",
       download: true,
     },
