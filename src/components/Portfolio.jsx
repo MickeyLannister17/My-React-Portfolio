@@ -8,6 +8,7 @@ import MyManageMob from "../assets/mymanagepc.jpg";
 import MyManagePc from "../assets/mymanage.jpg";
 import NubiaFoodMob from "../assets/nubiafood.jpg";
 import NubiaFoodPc from "../assets/nubiafoodpc.jpg";
+import TheTracker from "../assets/tracker.jpg";
 
 const Portfolio = () => {
   const portfolioPics = [
@@ -27,7 +28,7 @@ const Portfolio = () => {
       id: 3,
       src: InventoryPc,
       demo_link: "https://myinventoryapp.netlify.app/",
-      code_link: "https://github.com/MickeyLannister17/My-React-Inventory-App",
+      code_link: "https://github.com/MickeyLannister17/React-Tracker",
     },
     {
       id: 4,
@@ -40,6 +41,12 @@ const Portfolio = () => {
       id: 5,
       src: NubiaFoodPc,
       demo_link: "https://mickeylannister17.github.io/Nubia-Food/",
+      code_link: "https://github.com/MickeyLannister17/Nubia-Food",
+    },
+    {
+      id: 6,
+      src: TheTracker,
+      demo_link: "https://thetrackerapp.netlify.app/",
       code_link: "https://github.com/MickeyLannister17/Nubia-Food",
     },
   ];
