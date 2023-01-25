@@ -9,6 +9,7 @@ import MyManagePc from "../assets/mymanage.jpg";
 import NubiaFoodMob from "../assets/nubiafood.jpg";
 import NubiaFoodPc from "../assets/nubiafoodpc.jpg";
 import TheTracker from "../assets/tracker.jpg";
+import Fluppies from "../assets/fluppiespc.jpg";
 
 const Portfolio = () => {
   const portfolioPics = [
@@ -48,6 +49,12 @@ const Portfolio = () => {
       src: TheTracker,
       demo_link: "https://thetrackerapp.netlify.app/",
       code_link: "https://github.com/MickeyLannister17/Nubia-Food",
+    },
+    {
+      id: 7,
+      src: Fluppies,
+      demo_link: "https://fluppies.netlify.app/",
+      code_link: "https://github.com/MickeyLannister17/React-Food-App",
     },
   ];
   return (
