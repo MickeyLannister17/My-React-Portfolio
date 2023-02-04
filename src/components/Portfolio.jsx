@@ -29,7 +29,7 @@ const Portfolio = () => {
       id: 3,
       src: InventoryPc,
       demo_link: "https://myinventoryapp.netlify.app/",
-      code_link: "https://github.com/MickeyLannister17/React-Tracker",
+      code_link: "https://github.com/MickeyLannister17/My-React-Inventory-App",
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ const Portfolio = () => {
       id: 6,
       src: TheTracker,
       demo_link: "https://thetrackerapp.netlify.app/",
-      code_link: "https://github.com/MickeyLannister17/Nubia-Food",
+      code_link: "https://github.com/MickeyLannister17/React-Tracker",
     },
     {
       id: 7,
