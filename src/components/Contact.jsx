@@ -6,7 +6,7 @@ const Contact = () => {
       name="contact"
       className="w-full h-screen
     bg-gradient-to-b from-black to-gray-800
-    p-4 text-white"
+    p-4 text-white ss:pt-[200px]"
     >
       <div
         className="flex flex-col justify-center
