@@ -32,6 +32,7 @@ const Contact = () => {
               type="text"
               name="name"
               placeholder="Enter your name"
+              required
               className="p-2 bg-transparent border-2
               rounded-md text-white focus:outline-none"
             />
@@ -46,6 +47,7 @@ const Contact = () => {
               name="message"
               rows="10"
               placeholder="Enter your message"
+              required
               className="p-2
             bg-transparent border-2 rounded-md text-white
             focus:outline-none"
